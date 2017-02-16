@@ -1,0 +1,83 @@
+{
+  "entityMap": {
+    "0": {
+      "type": "STOCK",
+      "mutability": "MUTABLE",
+      "data": {
+        "symbol": "FB"
+      }
+    },
+    "1": {
+      "type": "STOCK",
+      "mutability": "MUTABLE",
+      "data": {
+        "symbol": "AAPL"
+      }
+    },
+    "2": {
+      "type": "STOCK",
+      "mutability": "MUTABLE",
+      "data": {
+        "symbol": "AMZN"
+      }
+    },
+    "3": {
+      "type": "STOCK",
+      "mutability": "MUTABLE",
+      "data": {
+        "symbol": "005930.KS"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "key": "bul13",
+      "text": "Facebook is to roll out an app that lets users watch the platform's video content on television.",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [
+        {
+          "offset": 0,
+          "length": 8,
+          "key": 0
+        }
+      ],
+      "data": {}
+    },
+    {
+      "key": "d3i2j",
+      "text": "The move could allow it to eventually better compete with the likes of YouTube and traditional television channels for advertising revenue.",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [],
+      "data": {}
+    },
+    {
+      "key": "8sk0m",
+      "text": "Users with Apple TV, Amazon's Fire TV and Samsung's Smart TVs will be able to watch Facebook's user-generated videos directly on their televisions.",
+      "type": "unstyled",
+      "depth": 0,
+      "inlineStyleRanges": [],
+      "entityRanges": [
+        {
+          "offset": 11,
+          "length": 5,
+          "key": 1
+        },
+        {
+          "offset": 21,
+          "length": 8,
+          "key": 2
+        },
+        {
+          "offset": 42,
+          "length": 9,
+          "key": 3
+        }
+      ],
+      "data": {}
+    }
+  ]
+}
